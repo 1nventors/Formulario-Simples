@@ -1,6 +1,7 @@
 # Survey Form 📝✨
 
 This project is part of the **HTML and CSS** practice from freeCodeCamp. It consists of creating a **survey form page** to collect user information in a clear and visually appealing way.
+This project is part of the **Responsive Web Design Certification** from [freeCodeCamp](https://www.freecodecamp.org/). 
 
 ---
 
